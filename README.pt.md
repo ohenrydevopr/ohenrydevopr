@@ -90,4 +90,4 @@ Já essas belezuras aqui, ou estou estudando com frequência (como C# e Mongo) o
     <p>Quer conversar comigo ? Entre em contato e a gente marca um café!</p>
 </div>
 
-<div align="center"><img src="https://github.com/ohenrydevopr/ohenrydevopr/public/github/snake.svg"/></div>
+<div align="center"><img src="https://github.com/ohenrydevopr/ohenrydevopr/blob/snake/snake.svg"/></div>
