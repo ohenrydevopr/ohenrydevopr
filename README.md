@@ -5,7 +5,7 @@
   </small></span></br>
 
 </h1>
-<small>Psiu! Aqui... Não lê muito bem em inglês? É só clicar <a href="https://github.com/ohenrydevopr/ohenrydevopr/README.pt.md">aqui</a></small></br>
+<small>Psiu! Aqui... Não lê muito bem em inglês? É só clicar <a href="https://github.com/ohenrydevopr/ohenrydevopr/blob/master/README.pt.md">aqui</a></small></br>
 
 <h2>I code in:</h2>
 <div>

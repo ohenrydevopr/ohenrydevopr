@@ -1,0 +1,9 @@
+**/public
+.vercel
+.next
+.vercel
+*.lock
+**/.git
+**/.svn
+**/.hg
+**/node_modules

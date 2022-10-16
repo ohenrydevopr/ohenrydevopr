@@ -5,7 +5,7 @@
   </small></span></br>
 
 </h1>
-<small>Hey! Here...Don't understand Portuguese very well? Just click <a href="https://github.com/ohenrydevopr/ohenrydevopr/README.md">here</a></small></br>
+<small>Hey! Here...Don't understand Portuguese very well? Just click <a href="https://github.com/ohenrydevopr">here</a></small></br>
 
 <h2>Eu programo em:</h2>
 <div>
