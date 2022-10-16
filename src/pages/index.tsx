@@ -1,7 +1,8 @@
+import Header from '@/components/Header'
 import type {NextPage} from 'next'
 
 const Home: NextPage = () => {
-	return <div>Hi, Nice to see you!</div>
+	return <Header />
 }
 
 export default Home
