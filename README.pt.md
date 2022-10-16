@@ -1,13 +1,13 @@
 <h1>
   <img src="./public/github/hey.gif" width="30" style="margin-bottom: -5px"/>
-  <span>Henrique Martins - Full Stack Developer</br><small>
-      Training to be a Full Cycle developer
+  <span>Henrique Martins - Desenvolvedor Full Stack</br><small>
+      Treinando para ser um Desenvolvedor Full Cycle
   </small></span></br>
 
 </h1>
-<small>Psiu! Aqui... Não lê muito bem em inglês? É só clicar <a href="https://github.com/ohenrydevopr/ohenrydevopr/README.pt.md">aqui</a></small></br>
+<small>Hey! Here...Don't understand Portuguese very well? Just click <a href="https://github.com/ohenrydevopr/ohenrydevopr/README.md">here</a></small></br>
 
-<h2>I code in:</h2>
+<h2>Eu programo em:</h2>
 <div>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat-sqaure&logo=javascript)
@@ -25,12 +25,12 @@
 ![Typescript](https://img.shields.io/badge/-TypeScript-FFFFFF?style=flat-sqaure&logo=typescript)
 
 <p>
-These are my favorite languages, which I'm quite familiar with, especially Python and Javascript.
+Essas são minhas linguagens favoritas, com as quais estou bastante familiarizado, especialmente Python e Javascript.
 </p>
 
 </div>
 
-<h2>Frameworks, Libs and More:</h2>
+<h2>Frameworks, Bibliotecas e Mais:</h2>
 <div>
 
 ![mongodb](https://img.shields.io/badge/-Mongo-FFFFFF?style=flat-sqaure&logo=mongodb)
@@ -42,12 +42,12 @@ These are my favorite languages, which I'm quite familiar with, especially Pytho
 ![Next.js](https://img.shields.io/badge/-Next.js-FFFFFF?style=flat-sqaure&logo=next.js&logoColor=010101)
 
 <p>
-These beauties either I'm studying often (Like C# and Mongo) or are part of projects I currently participate (Like Next.js and Expo).
+Já essas belezuras aqui, ou estou estudando com frequência (como C# e Mongo) ou fazem parte de projetos que participo atualmente (como Next.js e Expo).
 </p>
 
 </div>
 
-<h2>My DevOps soul loves to work with:</h2>
+<h2>Minha alma DevOps ama trabalhar com:</h2>
 <div>
 
 ![aws](https://img.shields.io/badge/-AWS%20Lambda-FFFFFF?style=flat-sqaure&logo=awslambda)
@@ -58,36 +58,36 @@ These beauties either I'm studying often (Like C# and Mongo) or are part of proj
 ![linux](https://img.shields.io/badge/-Linux-FFFFFF?style=flat-sqaure&logo=archlinux)
 ![docker](https://img.shields.io/badge/-Docker-FFFFFF?style=flat-sqaure&logo=Docker)
 
-<p>Amazing platforms that are allowing me to do amazing things</p>
+<p>São plataformas incríveis que estão me ajudando a criar projetos incŕiveis</p>
 
 </div>
 
-<h2>But no dev is complete without a delivery strategy, so I use these tools:</h2>
+<h2>Mas nenhum Dev é realmete completo sem uma boa estratégia de entrega, por isso uso essas belezinhas aqui:</h2>
 <div>
 
 ![Trello](https://img.shields.io/badge/-Trello-FFFFFF?style=flat-sqaure&logo=trello&logoColor=0074CD)
 ![Notion](https://img.shields.io/badge/-Notion-FFFFFF?style=flat-sqaure&logo=notion&logoColor=010101)
 ![Jira](https://img.shields.io/badge/-Jira-FFFFFF?style=flat-sqaure&logo=jira&logoColor=0074CD)
 
-<p>Are very useful when applying agile methodologies such as Scrum and Kanban</p>
+<p>São realmetne bem úteis para trabalhar com metodologias ágeis como Scrum e Kanban</p>
 </div>
-<h2>Here is the summary of my contributions here on github:</h2>
+<h2>E aqui esta meu resumo de contribuições no github:</h2>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ohenrydevopr&theme=blue-green&show_icons=true&include_all_commits=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=ohenrydevopr&theme=blue-green&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br)
 
-<h2>And also the technology I've been using lately:</h2>
+<h2>E também tecnologias que eu tenho usado bastante ultimamente:</h2>
 
-![Most](https://github-readme-stats.vercel.app/api/top-langs/?username=ohenrydevopr&theme=blue-green&layout=compact&langs_count=7)
+![Most](https://github-readme-stats.vercel.app/api/top-langs/?username=ohenrydevopr&theme=blue-green&layout=compact&langs_count=7&locale=pt-br)
 
-<h2>Contact:</h2>
+<h2>Contato:</h2>
 <div>
     <a href="https://linkedin.com/in/ohenrydevopr"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/linkedin.svg"
          alt="example badge"></a>
     <a href="mailto:ohenrydevopr@gmail.com"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/gmail.svg"
          alt="example badge"></a>
-    <a href="https://wa.me/5541999493522?text=Hi Henry! I found you in Github!"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/whatsapp.svg"
+    <a href="https://wa.me/5541999493522?text=Oi Henry! Eu achei você no Github!"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/whatsapp.svg"
          alt="example badge"></a>
-    <p>Do you want to talk with me ? Get in touch and we'll arrange a coffee!</p>
+    <p>Quer conversar comigo ? Entre em contato e a gente marca um café!</p>
 </div>
 
 <div align="center"><img src="https://github.com/ohenrydevopr/ohenrydevopr/public/github/snake.svg"/></div>
