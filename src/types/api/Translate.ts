@@ -1,4 +1,4 @@
-import {NextApiRequest} from 'next';
+import { NextApiRequest } from 'next';
 
 export interface SupportedLanguages {
 	'zh-CN': 'Chinese (Simplified)';
@@ -135,7 +135,6 @@ export interface IFromObject {
 
 export interface ITranslateResponseProps {
 	text: string;
-	pronunciation: string;
 	from: IFromObject;
 }
 
